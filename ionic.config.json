@@ -1,0 +1,7 @@
+{
+  "name": "StreetEvent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
